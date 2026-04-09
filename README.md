@@ -1,4 +1,5 @@
 # Hello GitHub！👋 I'm trying to explore the world of CS and AI!
+![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=BarryT-max&show_icons=true&theme=dracula)
 
 Majoring in **Economics**，I am really fond of  **CS**, **AI** and **mathematics**. Code is like music, a **universal language** that can show your ideas and link people together.
 
