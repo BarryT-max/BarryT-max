@@ -6,7 +6,7 @@ Majoring in **Economics**，I am really fond of  **CS**, **AI** and **mathematic
 ## 🛠️ Equipment
 * 🐍 **Language**: Python, Stata (Learning)
 * 📈 **Data and Quant**: `pandas`, `numpy`, `yfinance`
-* 📝 **Interests**: $\LaTeX$, Markdown, HTML
+* 📝 **Interests**: LaTeX, Markdown, HTML
 
 ## 🚀 Recent Goals
 1. Grasp Python and more languages
