@@ -1,7 +1,7 @@
 # Hello GitHub！👋 I'm trying to explore the world of CS and AI!
 ![Barry's Stats](https://github-readme-stats.vercel.app/api?username=BarryT-max&show_icons=true&theme=radical)
 
-I am Barry Tian from Zhejiang University.
+I am Barry Tian from Zhejiang University.<br>
 Majoring in **Economics**，I am really fond of  **CS**, **AI** and **mathematics**. Code is like music, a **universal language** that can show your ideas and link people together.
 
 ## 🛠️ Equipment
