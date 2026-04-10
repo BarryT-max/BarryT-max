@@ -18,7 +18,7 @@ Majoring in **Economics**，I am really fond of  **CS**, **AI** and **mathematic
 
 ## 💡 Motivation
 > "The best way to predict the future is to invent it." 
-<br>
+>
 > "Talk is Cheap. Show me the code."
 
 Contact me if you're also a starter in the field of CS learning!
